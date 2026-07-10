@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Custom project ignores ---
+# Ignore checkpoints and logs
+/checkpoints/
+/logs/
+/outputs/
+/models/checkpoint-*/
+/models/ppo_tutor_checkpoints*/
+/data/raw/
+/data/interim/
+
+# Ignore environment variables/secrets
+.env
+.huggingface/
+.wandb/
+
+# Ignore system files
+.ipynb_checkpoints/
+.gradio/
