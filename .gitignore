@@ -235,3 +235,12 @@ __marimo__/
 # Ignore system files
 .ipynb_checkpoints/
 .gradio/
+
+# --- Custom project ignores ---
+__pycache__/
+*.pyc
+.env
+.wandb/
+/checkpoints/
+/logs/
+/outputs/
