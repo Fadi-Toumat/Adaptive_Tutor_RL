@@ -58,6 +58,7 @@ Adaptive_Tutor_RL/
 └── data/                     # Dataset structures
     └── processed/            # Preprocessed training datasets
 
+---
 
 ## ⚙️ Installation & Usage
 1. Clone the Repository
@@ -92,3 +93,4 @@ Lead Researcher & Developer: Fadi Toumat
 Email: Fadi.n.toumat@gmail.com
 
 GitHub: @Fadi-Toumat
+---
