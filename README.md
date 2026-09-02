@@ -59,23 +59,32 @@ Adaptive_Tutor_RL/
     └── processed/            # Preprocessed training datasets
 
 
-⚙️ Installation & Usage
+## ⚙️ Installation & Usage
 1. Clone the Repository
 Bash
 git clone [https://github.com/Fadi-Toumat/Adaptive_Tutor_RL.git](https://github.com/Fadi-Toumat/Adaptive_Tutor_RL.git)
 cd Adaptive_Tutor_RL
-2. Install Dependencies
+
+---
+
+## 2. Install Dependencies
 Bash
 pip install -r requirements.txt
-3. Run the Adaptive Web Interface
+
+---
+
+## 3. Run the Adaptive Web Interface
 Bash
 python app_gradio.py
-📦 Model Weights & Access Strategy
+---
+
+## 📦 Model Weights & Access Strategy
 Due to storage constraints on GitHub, trained heavy model checkpoints (.safetensors / PEFT adapters) are hosted externally.
+---
 
-Academic & Research Access: Model weights are available upon request for research and evaluation purposes.
-
-Contact: To request access to pre-trained checkpoints (Qwen PPO Adapter & RoBERTa Discriminator), please reach out to Fadi Toumat at Fadi.n.toumat@gmail.com.
+## Academic & Research Access: Model weights are available upon request for research and evaluation purposes.
+---
+## Contact: To request access to pre-trained checkpoints (Qwen PPO Adapter & RoBERTa Discriminator), please reach out to Fadi Toumat at Fadi.n.toumat@gmail.com.
 
 👤 Author & Contact
 Lead Researcher & Developer: Fadi Toumat
